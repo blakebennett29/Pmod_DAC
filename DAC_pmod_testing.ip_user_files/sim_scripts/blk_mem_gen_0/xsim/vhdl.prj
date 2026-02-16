@@ -1,0 +1,5 @@
+vhdl xil_defaultlib  \
+"../../../../DAC_pmod_testing.gen/sources_1/ip/blk_mem_gen_0/blk_mem_gen_0_sim_netlist.vhdl" \
+
+# Do not sort compile order
+nosort

@@ -1,0 +1,8 @@
+# compile vhdl design source files
+vhdl xil_defaultlib  \
+"../../../../DAC_pmod_testing.gen/sources_1/ip/blk_mem_gen_0/blk_mem_gen_0_sim_netlist.vhdl" \
+"../../../../DAC_pmod_testing.srcs/sources_1/new/DAC_Pmod.vhd" \
+"../../../../DAC_pmod_testing.srcs/sim_1/new/tb_dac.vhd" \
+
+# Do not sort compile order
+nosort

@@ -1,0 +1,43 @@
+# Vivado / Tcl-console generated
+*.jou
+*.log
+*.str
+*.zip
+*.tmp
+*.cache
+*.hw
+*.hwdef
+*.hdf
+*.xsa
+
+# Vivado folders
+.cache/
+.hw/
+.ip_user_files/
+.runs/
+.sim/
+.webtalk/
+.webtalk.log
+.webtalk.jou
+.vivado/
+
+# Reports / generated
+*.rpt
+*.dmp
+*.wdb
+*.pb
+*.ps
+*.csv
+
+# OS/editor
+.DS_Store
+Thumbs.db
+.vscode/
+
+
+# --- added from Vivado Tcl Console ---
+.runs/
+.sim/
+.cache/
+.ip_user_files/
+

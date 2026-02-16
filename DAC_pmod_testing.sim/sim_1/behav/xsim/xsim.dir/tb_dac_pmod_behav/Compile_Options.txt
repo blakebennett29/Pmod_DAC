@@ -1,0 +1,1 @@
+--incr --debug "typical" --relax --mt "2" -L "xil_defaultlib" -L "secureip" -L "xpm" --snapshot "tb_dac_pmod_behav" "xil_defaultlib.tb_dac_pmod" -log "elaborate.log" 
