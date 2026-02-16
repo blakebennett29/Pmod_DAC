@@ -9,6 +9,17 @@
 *.hwdef
 *.hdf
 *.xsa
+# Vivado generated
+*.runs/
+*.cache/
+*.hw/
+*.ip_user_files/
+*.sim/
+*.jou
+*.log
+*.str
+*.wdf
+
 
 # Vivado folders
 .cache/

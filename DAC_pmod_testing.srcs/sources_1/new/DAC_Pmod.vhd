@@ -38,7 +38,12 @@ entity DAC_Pmod is
             sclk: out std_logic;
             mclk: out std_logic;
             lrclk: out std_logic;
-            data: out std_logic);
+            data: out std_logic
+--            r_sclk: out std_logic;
+--            r_mclk: out std_logic;
+--            r_lrclk: out std_logic;
+--            r_data: out std_logic
+            );
 end DAC_Pmod;
 
 architecture Behavioral of DAC_Pmod is
